@@ -1,0 +1,16 @@
+Roar,Katy Perry,Pop,3:43
+Best Day of My Life,American Authors,Pop,3:14
+Hall of Fame,The Script,Pop,3:22
+Green Green Grass,George Ezra,Pop,2:47
+Love Story,Taylor Swift,Pop,3:56
+Green Green Grass,George Ezra,Pop,2:47
+Happy,Pharrell Williams,Pop,3:52
+Shut Up and Dance,Walk The Moon,Pop,3:19
+Cool Kids,Echosmith,Pop,3:57
+Cool Kids,Echosmith,Pop,3:57
+Shut Up and Dance,Walk The Moon,Pop,3:19
+Cool Kids,Echosmith,Pop,3:57
+Hall of Fame,The Script,Pop,3:22
+Roar,Katy Perry,Pop,3:43
+Cool Kids,Echosmith,Pop,3:57
+Geronimo,Sheppard,Pop,3:38

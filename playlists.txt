@@ -1,0 +1,13 @@
+Pop1,Pop,867
+Rock1,Rock,867
+Indie1,Indie,794
+Robert1,Self_Selected,452
+Pop2,Pop,1044
+Patyrocks,Rock,3397
+Tunes to rock out ,Rock,3427
+Hannah,Pop,2674
+May Paty 2024,Self_Selected,0
+Silvie's songs,Pop,3410
+BakerBoogie,Self_Selected,0
+BakerGreatestHits,Rock,2288
+Kanak's greatest hits,Self_Selected,605

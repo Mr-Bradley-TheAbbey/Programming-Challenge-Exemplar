@@ -1,0 +1,12 @@
+One Vision,Queen,Rock,5:11
+We Built This City,Starship,Rock,4:56
+One Vision,Queen,Rock,5:11
+Living On A Prayer,Bon Jovi,Rock,4:09
+Bohemian Rhapsody,Queen,Rock,5:54
+Another One Bites The Dust,Queen,Rock,3:34
+One Vision,Queen,Rock,5:11
+Paint It Black,The Rolling Stones,Rock,3:22
+Mr Brightside,The Killers,Rock,3:42
+Bohemian Rhapsody,Queen,Rock,5:54
+Living On A Prayer,Bon Jovi,Rock,4:09
+Bohemian Rhapsody,Queen,Rock,5:54
